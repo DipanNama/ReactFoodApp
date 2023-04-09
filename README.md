@@ -40,4 +40,3 @@ npm i
 npm start
 
 ```
-# ReactFoodApp
